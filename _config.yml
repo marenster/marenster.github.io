@@ -53,11 +53,12 @@ navbar-links:
     - Biography: "about"
     - Workshops: "workshops"
     - Press Kit: "press"
-  Books:
+  Works:
     - Sparks: "books/sparks"
     - Closing the Store: "books/closing_the_store"
     - Fuzzy Logic: "books/fuzzy"
     - Commas: "books/commas"
+    - Plays: "books/plays"
   Elsewhere:
     - WOU: "http://wou.edu/resources/faculty-staff-info/?u=andersm"
     - ET Farms: "http://etfarms.com/"
