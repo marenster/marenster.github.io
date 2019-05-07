@@ -25,10 +25,8 @@ twitter_username: marenster
 github_username:  marenster
 
 # Build settings
-markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -283,6 +281,7 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
