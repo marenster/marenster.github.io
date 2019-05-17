@@ -8,12 +8,13 @@ permalink: /press/
 
 *Maren Bradley Anderson*
 
-Maren Bradley Anderson is a writer, teacher, and alpaca rancher in Oregon. She has been the Editor-in-Chief of _The Timberline Review_ since 2019 and has written plays for the Apple Box Children’s Theater. Her writing has appeared in _The Christian Science Monitor, Alpacas Magazine,_ and _The Timberline Review._ She teaches at Western Oregon University. Her new novel _Sparks_ (July 2019), sex farce _Closing the Store,_ and alpaca ranch romance _Fuzzy Logic_ are available online and through your local bookstore.
+Maren Bradley Anderson is a writer, teacher, and alpaca rancher in Oregon. She is the Editor of [_the Timberline Review_](http://timberlinereview.com/) and [_PURE Insights_](http://www.wou.edu/pure/insights-academic-journal/) and has written plays for the Apple Box Children’s Theater. Her writing has appeared in _The Christian Science Monitor, Alpacas Magazine_, and _the Timberline Review_. She teaches at Western Oregon University. Her new novel [_Sparks_](/books/sparks) (July 2019), sex farce [_Closing the Store_](/books/closing_the_store), and alpaca ranch romance [_Fuzzy Logic_](/books/fuzzy) are available online and through your local bookstore.
 
 ## Headshots of Maren Bradley Anderson
 
-![alt text](/img/mba2008-2.jpg "Maren Bradley Anderson")
+![alt text](/img/maren-leopard-sm.jpg "Maren Bradley Anderson")
 
+ [high-resolution file](https://www.dropbox.com/s/xoqevhdpsekskya/DSC_0073.jpg?dl=0)
 
 ## Articles about me
 
@@ -54,13 +55,30 @@ All Rosie wants is to tear down the ancient cowshed on her ranch to make room fo
 
 Rosie is thrust into a world of magic she didn’t know existed. But the cowsprite is deadly and won’t leave. Now all Rosie wants is for life to go back to normal. Or does she?
 
-"Sparks is a fresh and playful love story, told with wry, laugh out loud humor and populated with characters Anderson has a knack for making feel like your dearest friends. That would be enough reason to read this. But did I mention "amoral Barn-Sprites"? Because Sparks has those, too, and they are some terrible fun. Anderson uses a mischievous  twist of magic to take her characters, and readers, on a cozy but exhilarating ride." -Therese Oneill, NYT Bestselling author of _Unmentionable_ and _Ungovernable_
+"Sparks is a fresh and playful love story, told with wry, laugh out loud humor and populated with characters Anderson has a knack for making feel like your dearest friends. That would be enough reason to read this. But did I mention "amoral Barn-Sprites"? Because Sparks has those, too, and they are some terrible fun. Anderson uses a mischievous  twist of magic to take her characters, and readers, on a cozy but exhilarating ride." 
+-Therese Oneill, NYT Bestselling author of _Unmentionable_ and _Ungovernable_
 
 
-"Horses, monsters, and a spark of romance -- this is my new favorite kind of fantasy." —Kate Ristau, Author of _Clockbreakers_ and _Shadow Girl_
+"Horses, monsters, and a spark of romance -- this is my new favorite kind of fantasy."
+—Kate Ristau, Author of _Clockbreakers_ and _Shadow Girl_
+
+“...a story comprised of romance, folklore, and the paranormal which made me feel safe and scared… [Anderson] did a fabulous job of portraying life in the barn, the riding scenes, and the horse characters. Fun, intriguing story!”
+-Brittney Joy, author of the _Red Rock Ranch series_
+
+
+"Romance, monsters, and magic … for grownups? Yes, please!"
+-Karen Eisenbrey, author of _Daughter of Magic_ and _Wizard Girl_
+
+
+“An upbeat, witty paranormal – Anderson’s Sparks is deliciously addictive with touches of sizzling chemistry, zany twists, and quirky turns that simply leave you wanting more. Fast-paced and entertaining, Rosie and Patrick’s simmering romance, mixed with a little magical mayhem, heat up this romantic fantasy, creating a wonderfully amusing read. Clear your day because you won’t want to put this book down!”
+-Heather S. Ransom, author of the _Going Green trilogy_
+
+
 
 
 **Closing the Store**
+
+![alt text](https://images-na.ssl-images-amazon.com/images/I/41JBnnHNZDL._SX326_BO1,204,203,200_.jpg "Closing the Store")
 
 Liz Stratton is a talk show host who runs for president of the United States on the platform of ending a never-ending war. However, during a debate, she is patronized by another (male) candidate, and she goes off-script, calling for a sex strike to end the war. This is awkward because she just found the love of her life.
 
@@ -77,10 +95,12 @@ Now the fun starts.
 5 stars: Sassy and sometimes raunchy women take charge of a male-driven political scene, with a bit of romance thrown in to keep things interesting.
 5 Stars: There so many smiles and bursts of laughter during this book, and two instances where I cried with joy. I loved this book so much!
 
-![alt text](https://images-na.ssl-images-amazon.com/images/I/41JBnnHNZDL._SX326_BO1,204,203,200_.jpg "Closing the Store")
+
 
 
 **Fuzzy Logic**
+
+![alt text](https://images-na.ssl-images-amazon.com/images/I/51Bvap4r4TL._SX326_BO1,204,203,200_.jpg "Fuzzy Logic")
 
 Meg moves to an alpaca ranch from the city to start a quiet life on her own after her divorce, but is surprised by two handsome men who pursue her, an intrigue at work, and life and death on the farm. Life is hardly quiet, but it’s better.
 
@@ -94,9 +114,11 @@ Fuzzy Logic is a wonderful, cute story one can read again and again. At just 186
 
 5 stars: "Fuzzy Logic" is a great, quick, sweet read. It's a warm-hearted story that is uplifting. While following Meg on her self-discovery, the reader gets a glimpse into life with alpacas, which is amazing. (Warning: This book may make you fall in love with alpacas, too! Meg's passion for the creatures is contagious!) Anderson captures the conflicts some women go through in relationships, particularly the internal ones that need to be overcome before true love can be found. I recommend this book to all the women in my life. -- Emily M.
 
-![alt text](https://images-na.ssl-images-amazon.com/images/I/51Bvap4r4TL._SX326_BO1,204,203,200_.jpg "Fuzzy Logic")
+
 
 **Commas: An Irreverent Primer**
+
+![alt text](https://images-na.ssl-images-amazon.com/images/I/21up2AQ9xwL._SX331_BO1,204,203,200_.jpg "Commas: An Irreverent Primer")
 
 What is a grammar dragon? What happens to unicorns when you misuse FANBOYS?
 Commas: An Irreverent Primer will explain. 
@@ -112,5 +134,3 @@ If you're looking for a clear and concise book on when (and when not) to use com
 5 Stars: This is a hilarious, fun book! Highly recommended! I bought it for my brother, who is completing his grad school entrance essays.
 
 5 Stars: Very well done. Despite the fact that I spent most of my elementary years in private schools, I only vaguely recall the whys of grammar. "Commas" was a great refresher course for me...and the exercises in the back reinforced the rules. I would highly recommend this for all levels of writers, fiction or non. And yes, LOVED the humor.
-
-![alt text](https://images-na.ssl-images-amazon.com/images/I/21up2AQ9xwL._SX331_BO1,204,203,200_.jpg "Commas: An Irreverent Primer")
