@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I have been a writer since I was four years old, telling myself bedtime stories in the dark.
   These pages are the clearinghouse for my writing. Here you will find my author bio and links to my books, stories, writing blog, etc.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://marens.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: marenster
 github_username:  marenster
 
@@ -131,7 +131,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "marenster.com"
+url-pretty: "marens.com"
 
 # --- Web Statistics Section --- #
 
