@@ -14,7 +14,7 @@ Briefly,
 1. I have a book coming out in July 2019
 2. I have a play being produced, also in July 2019
 3. I am now the Editor-in-Chief of [_the Timberline Review_](http://timberlinereview.com/), the literary magazine of Willamette Writers
-4. I am now the Managing Editor if [_PURE Insights_](http://www.wou.edu/pure/insights-academic-journal/), the undergraduate research journal at WOU
+4. I am now the Managing Editor of [_PURE Insights_](http://www.wou.edu/pure/insights-academic-journal/), the undergraduate research journal at WOU
 
 And that's just since February!
 
