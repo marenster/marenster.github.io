@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Beowulf is in Rehearsals!"
-subtitle: "Monsters, Merewitches, and Dragons!"
 date: "June 25, 2019"
+subtitle: "Monsters, Merewitches, and Dragons!"
 tags: news pics Beowulf Plays
 ---
 June 25, 2019
