@@ -4,7 +4,7 @@ title:  "Sparks"
 subtitle: Love and Sprites on a Horse Ranch
 ---
 
-**[Pre-order Now!](https://amzn.to/2JlV9pM) On Sale July 29, 2019**
+**[Order Now!](https://amzn.to/2JlV9pM)**
 
 All Rosie wants is to tear down the ancient cowshed on her ranch to make room for more horses, but it is unlucky to knock down a barn because it could disturb a sprite. Rosie thinks this is superstitious hogwash. That’s why she and her handsome new client, Patrick, get drunk one night and knock the shed down with the tractor, unleashing something very dark and very angry.
 
