@@ -10,6 +10,10 @@ July 2019
 
 ![alt text](/img/BeowulfPosterSM.png "Beowulf")
 
+
+**[Watch it here.](http://www2.wou.edu/nora/woutv.video.viewer?pvideoid=1352)**
+
+
 The story is set in Scandinavia. Beowulf, a hero of the Geats, comes to the aid of Hrothgar, the king of the Danes, whose mead hall in Heorot has been under attack by a monster known as Grendel. After Beowulf slays him, Grendel's mother attacks the hall and is then also defeated. Later in Beowulf's life the angry dragon mercilessly burns the Geats' homes and lands and Beowulf decides to fight and kill the monster personally. He and his Thanes climb to the dragon's lair where, upon seeing the beast, the Thanes flee in terror, leaving only Wiglaf to battle at Beowulf's side. This is an epic story of Beowulf's bravery and triumph with good over evil.
 
 ## Arabian Nights
