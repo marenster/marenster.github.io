@@ -49,7 +49,9 @@ Maren Bradley Anderson is a writer, teacher, and alpaca rancher in Oregon. She i
 ## Books
 
 
-**Sparks** (Summer 2019)
+**Sparks** (July 2019)
+
+![alt text](/img/SparksFrontSM.png "Sparks Cover")
 
 All Rosie wants is to tear down the ancient cowshed on her ranch to make room for more horses, but it is unlucky to knock down a barn because it could disturb a sprite. Rosie thinks this is superstitious hogwash. That’s why she and her handsome new client, Patrick, get drunk one night and knock the shed down with the tractor, unleashing something very dark and very angry.
 
