@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Essay! "A Fishing Girlfriend""
+title: "New Essay! A Fishing Girlfriend"
 date: "2020-01-31 14:09:22 -0800"
 tags: Essay FishingGirlfiend fishing
 ---
