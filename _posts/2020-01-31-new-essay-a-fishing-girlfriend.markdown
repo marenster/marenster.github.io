@@ -12,4 +12,4 @@ Belated thanks to Fishboy, who may or may not encounter this article as I am sur
 
 What do you think of the essay? Any of you "left on the shore" by someone, so to speak?
 
-!["A Fishing Girlfriend"](/img/A Fishing Girlfiend.jpg "FishingGirlfiend PDF")
+["A Fishing Girlfriend"](/img/FishingGirlfriend.pdf)
