@@ -4,6 +4,14 @@ title:  "Dramatic Works"
 subtitle: Full-length plays for Apple Box Children's Theater
 ---
 
+## Much Ado About Nothing
+July 2021
+
+![alt text](/img/MAANposter1.jpg "Much Ado About Nothing Poster")
+
+Much Ado About Nothing is about two couples who fall in love. Hero and Claudio are young and eager to be married, but Beatrice and Benedick have to be convinced they actually like each other. Don John, a jealous prince, tries to sabotage Hero and Claudio’s wedding by lying about Hero’s devotion. But this is a comedy, so there is much hilarity, a happy ending for everyone, and the bad guys get their comeuppance.  
+
+
 ## Beowulf
 
 July 2019
