@@ -11,6 +11,16 @@ July 2022
 
 In "St. George and the Dragon," the Red Knight, who has no name and was raised by the fairies, goes on an epic (and funny) adventure with Princess Una and her short friend Big Al. They encounter swordplay, magic, monsters, and yes, a three-headed dragon to fight at the end. This play is based on Spenser's Faerie Queene.
 
+## Icons R Us
+December 2021 and February 2022
+
+![alt text](/img/IconLogo.jpeg "Icons R Us Logo")
+
+*Icons R Us* is a 10 minute play devised, written, and performed in 3 days for the Zoom INstant play festival through PDX playwrights in December 2021.
+
+Carl has a problem. His Mary and Jesus religious icon is, well, talking, so he makes a video call to the Icons R Us customer service line. They are exactly as helpful as you think they will be.
+
+**[Watch it here.](https://youtu.be/n27ZgWxbNBw?t=3079)**
 
 ## Much Ado About Nothing
 July 2021
