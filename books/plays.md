@@ -7,9 +7,11 @@ subtitle: Full-length plays for Apple Box Children's Theater
 ## St. George and the Dragon
 July 2022
 
-![alt text](/img/WOU_StGeorgeAndTheDragon-poster_11X17.pdf "St. George and the Dragon Poster")
+![alt text](/img/StGeorgeAndTheDragon-poster.jpg "St. George and the Dragon Poster")
 
 In "St. George and the Dragon," the Red Knight, who has no name and was raised by the fairies, goes on an epic (and funny) adventure with Princess Una and her short friend Big Al. They encounter swordplay, magic, monsters, and yes, a three-headed dragon to fight at the end. This play is based on Spenser's Faerie Queene.
+
+**[Watch it here.](https://www2.wou.edu/nora/woutv.video.viewer?pvideoid=1749)**
 
 ## Icons R Us
 December 2021 and February 2022
