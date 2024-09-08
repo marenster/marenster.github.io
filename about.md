@@ -6,7 +6,7 @@ permalink: /about/
 
 # Writer * Editor * Teacher
 
-Maren Bradley Anderson is a writer, teacher, and alpaca rancher in Oregon. She is the Editor of [_the Timberline Review_](http://timberlinereview.com/) and [_PURE Insights_](http://www.wou.edu/pure/insights-academic-journal/) and has written plays for the Apple Box Children’s Theater. Her writing has appeared in _The Christian Science Monitor, Alpacas Magazine_, and _the Timberline Review_. She teaches at Western Oregon University. Her new novel [_Sparks_](/books/sparks) (July 2019), sex farce [_Closing the Store_](/books/closing_the_store), and alpaca ranch romance [_Fuzzy Logic_](/books/fuzzy) are available online and through your local bookstore.
+Maren Bradley Anderson is a writer, teacher, and alpaca rancher in Oregon. She is the Editor Emerita of [_the Timberline Review_](http://timberlinereview.com/) and [_PURE Insights_](http://www.wou.edu/pure/insights-academic-journal/) and has written plays for the Apple Box Children’s Theater. Her writing has appeared in _The Christian Science Monitor, Alpacas Magazine_, and _the Timberline Review_. She teaches at Western Oregon University. Her new novel [_Sparks_](/books/sparks) (July 2019), sex farce [_Closing the Store_](/books/closing_the_store), and alpaca ranch romance [_Fuzzy Logic_](/books/fuzzy) are available online and through your local bookstore.
 
 Sign up for Maren's newsletter; don't worry she won't spam you.
 

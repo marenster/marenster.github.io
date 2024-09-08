@@ -4,6 +4,40 @@ title:  "Dramatic Works"
 subtitle: Full-length plays for Apple Box Children's Theater
 ---
 
+## Comedy of Errors
+by William Shakespeare, adapted by Maren Bradley Anderson
+
+July 2024
+
+![alt text](/img/COE-24.jpg "Comedy of Errors Poster")
+
+
+“Comedy of Errors” is a twin/mistaken identity farce written by William Shakespeare and adapted for kids and modern audiences by Maren Anderson. In it, two sets of twins, each named Antipholus and Dromio, are separated at birth. One set of Antipholus and Dromio twins arrives in Ephesus from Spain looking for the other twins, but they are all mistaken for each other. Also, their father Egeon is in town and has one day to raise a thousand ducats or he will be executed. He also does not know any of the twins are in town.
+
+
+**[Watch it here.](https://youtu.be/8RPuIen7x6g)**
+
+## El Principe Oso, or The Bear Prince
+July 2023
+
+by Maren Bradley Anderson 
+
+![alt text](/img/bearprince.png "Bear Prince Poster")
+
+
+This is the story of Ninfa, a poor girl who lives in a village in Mexico. Her father, a woodcutter, chops down a tree in the bosque encantador (enchanted forest), and a talking bear threatens to kill him unless the woodcutter brings Ninfa to marry him. Ninfa discovers the bear is actually El Principe Oso, a.k.a. Raul, the enchanted prince cursed to be a man by night and a bear by day. When she breaks a promise to her prince, she must go on a quest with her companions to free him from the clutches of an evil witch.
+
+**[Watch it here.](https://www2.wou.edu/nora/woutv.video.viewer?pvideoid=1861)**
+
+
+## St. George and the Dragon
+July 2022
+
+![alt text](/img/StGeorgeAndTheDragon-poster.jpg "St. George and the Dragon Poster")
+
+In "St. George and the Dragon," the Red Knight, who has no name and was raised by the fairies, goes on an epic (and funny) adventure with Princess Una and her short friend Big Al. They encounter swordplay, magic, monsters, and yes, a three-headed dragon to fight at the end. This play is based on Spenser's Faerie Queene.
+
+**[Watch it here.](https://www2.wou.edu/nora/woutv.video.viewer?pvideoid=1749)**
 ## St. George and the Dragon
 July 2022
 
