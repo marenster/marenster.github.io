@@ -284,5 +284,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
+# quiet some build warnings - will need to change w/ Saas 3.0
+# https://github.com/jekyll/minima/issues/836
+sass:
+  quiet_deps: true
+
+
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
