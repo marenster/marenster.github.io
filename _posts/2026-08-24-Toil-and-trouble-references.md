@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "References"
-date: "2026-008-24 21:51:53 -0700"
+date: "2026-08-24 21:51:53 -0700"
 subtitle: "Referencing"
 tags: 2026 Toil&Trouble witches
 ---
