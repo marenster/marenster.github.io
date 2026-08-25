@@ -30,3 +30,5 @@ end
 
 gem 'jekyll-sitemap'
 gem 'jekyll-paginate'
+gem 'csv'
+gem 'base64'
