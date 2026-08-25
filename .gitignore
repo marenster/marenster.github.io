@@ -6,3 +6,4 @@ vendor
 *.swp
 marensdotcom.bbprojectd
 Content*
+**/.DS_Store
