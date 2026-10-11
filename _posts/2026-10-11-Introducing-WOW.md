@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Introducing Witch of the Week"
-date: "2026-10-12"
-subtitle: "Maren's New Substack,"
+date: "2026-10-11 14:51:53 -0700"
+subtitle: "Maren's New Substack"
 tags: 2026 Toil&Trouble witches WitchoftheWeek WOW
 ---
 
