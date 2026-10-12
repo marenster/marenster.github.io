@@ -8,8 +8,7 @@ permalink: /press/
 
 *Maren Bradley Anderson*
 
-Maren Bradley Anderson is a writer, teacher, and alpaca rancher in Oregon. She is the Editor of [_the Timberline Review_](http://timberlinereview.com/) and [_PURE Insights_](http://www.wou.edu/pure/insights-academic-journal/) and has written plays for the Apple Box Children’s Theater. Her writing has appeared in _The Christian Science Monitor, Alpacas Magazine_, and _the Timberline Review_. She teaches at Western Oregon University. Her new novel [_Sparks_](/books/sparks) (July 2019), sex farce [_Closing the Store_](/books/closing_the_store), and alpaca ranch romance [_Fuzzy Logic_](/books/fuzzy) are available online and through your local bookstore.
-
+Maren Bradley Anderson is a novelist, playwright, editor, teacher, and alpaca rancher in Oregon. She is the President of [Willamette Writers](https://willamettewriters.org/), past Editor-in-Chief of [*the Timberline Review*](http://timberlinereview.com/), and playwright and Executive Producer for the [Apple Box Children’s Theater](https://www.appleboxtheater.org/). Her book *Toil and Trouble*, a look at witches and the patriarchy in literature, will be out in September 2027. 
 ## Headshots of Maren Bradley Anderson
 
 ![alt text](/img/maren-leopard-sm.jpg "Maren Bradley Anderson")
@@ -17,6 +16,12 @@ Maren Bradley Anderson is a writer, teacher, and alpaca rancher in Oregon. She i
  [high-resolution file](https://www.dropbox.com/s/xoqevhdpsekskya/DSC_0073.jpg?dl=0)
 
 ## Articles about me
+
+[Monmouth Montly podcast, May 2026](https://pocketcasts.com/podcast/monmouth-monthly/5506eb70-7313-013c-2888-0a5978b26ff7/episode-42-part-i-maren-anderson-part-ii-andrea-van-heeswyk-and-amy-christensen/c09ceb19-3628-40ec-81c3-f817c2b303b6) 
+
+[Apple Box's Adaptation of Comedy of Errors](https://www.polkio.com/news/apple-box-children-s-theater-produces-free-shakespeare-play-for-kids/article_6f4571e8-33e5-11ef-9d3a-9fd662df382e.html)
+
+[Apple Box's Act 3](https://www.polkio.com/lifestyles/apple-box-ready-for-act-iii/article_79bffa44-ae39-11e9-a08d-0775b53df74b.html) 
 
 [WOU Adjunct's Adaptaion of Arabian Nights Showcases Local Children](https://www.wou.edu/woustories/2017/07/06/wou-adjuncts-adaptation-arabian-nights-showcases-talent-local-children/ "Arabian Nights at WOU")
 
@@ -48,8 +53,14 @@ Maren Bradley Anderson is a writer, teacher, and alpaca rancher in Oregon. She i
 
 ## Books
 
+### **Toil and Trouble: How Stories of Witches Reveal Women's History**
 
-**Sparks** (July 2019)
+Coming Fall 2027
+
+**Toil and Trouble** is a witchy wander through women’s history examines women’s history through the lens of how witches and magical women are treated in world literature. With witches like Baba Yaga, Lilith, Tamamo-no-Mae, and the weird sisters in Macbeth, we see how patriarchy has been trying to control our stories for eons.
+ 
+
+### **Sparks** 
 
 ![alt text](/img/SparksFrontSM.png "Sparks Cover")
 
@@ -78,7 +89,7 @@ Rosie is thrust into a world of magic she didn’t know existed. But the cowspri
 
 
 
-**Closing the Store**
+### **Closing the Store**
 
 ![alt text](https://images-na.ssl-images-amazon.com/images/I/41JBnnHNZDL._SX326_BO1,204,203,200_.jpg "Closing the Store")
 
@@ -100,7 +111,7 @@ Now the fun starts.
 
 
 
-**Fuzzy Logic**
+### **Fuzzy Logic**
 
 ![alt text](https://images-na.ssl-images-amazon.com/images/I/51Bvap4r4TL._SX326_BO1,204,203,200_.jpg "Fuzzy Logic")
 
@@ -118,7 +129,7 @@ Fuzzy Logic is a wonderful, cute story one can read again and again. At just 186
 
 
 
-**Commas: An Irreverent Primer**
+### **Commas: An Irreverent Primer**
 
 ![alt text](https://images-na.ssl-images-amazon.com/images/I/21up2AQ9xwL._SX331_BO1,204,203,200_.jpg "Commas: An Irreverent Primer")
 
